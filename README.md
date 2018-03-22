@@ -6,5 +6,5 @@ During his/her employment with Tata consultancy Services Ltd, he/she was respons
 5.	Participating in user acceptance testing and performance testing to optimize portal applications in accordance with quality standard set by business.
 
 He/She utilized skills including:
-1. Core Java version 6, J2EE version 6, Java webservices, IBM WebSphere Portlet (JSR 168/JSR 286 Portlet specifications) development with Rational Application Developer v7.5 , Java Server Faces(JSF), portal skins & themes , JSP, HTML, CSS, JavaScript, HTTP/SOAP, XML ,XSD, JAXB, XSLT & XPATH, and having limited middleware experience using Oracle OSB and SOA suite.
+1. Core Java version 6, J2EE version 6, Java webservices, IBM WebSphere Portlet (JSR 168/JSR 286 Portlet specifications) development with Rational Application Developer v7.5 , Java Server Faces(JSF), portal skins & themes , JSP, HTML, CSS, JavaScript, HTTP/SOAP, XML ,XSD, JAXB, XSLT & XPATH, and having  middleware experience using Oracle OSB and SOA suite.
 2. PL/SQL, Oracle database, Shell scripting and Linux RHEL OS. Also, Possess deployment and configuration skills on IBM WebSphere Portal and Application servers.
